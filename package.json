@@ -1,0 +1,22 @@
+{
+  "name": "gc-tdd-lab-2",
+  "version": "1.0.0",
+  "description": "Grand Circus Front-End Bootcamp Test-Driven Development Lab #2",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SeanDoody/gc-tdd-lab-2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SeanDoody/gc-tdd-lab-2/issues"
+  },
+  "homepage": "https://github.com/SeanDoody/gc-tdd-lab-2#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
