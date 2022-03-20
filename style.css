@@ -1,0 +1,11 @@
+* {
+    font-family: sans-serif;
+}
+
+body {
+    margin: 20px;
+}
+
+label, p {
+    font-size: 24px;
+}
